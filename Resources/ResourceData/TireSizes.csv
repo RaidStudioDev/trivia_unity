@@ -1,0 +1,20 @@
+1,True or False: The P-Metric tire sizing system is used for tires installed on cars and light trucks.,TRUE,FALSE,,
+1,True or False: The Flotation tire sizing system is used for tires installed on cars and light trucks.,FALSE,TRUE,,
+0,Which of these tire sizing systems applies to Passenger tires?,P-Metric,LT-Metric,Flotation,
+0,What is the load index for tire size P215/65R16 98T?,98,215,65,16
+0,What is the rim diameter for tire size P215/65R16 98T?,16,215,65,98
+0,What is the section width for tire size P215/65R16 98T?,215,98,65,16
+0,What is the aspect ratio for tire size P215/65R16 98T?,65,215,98,16
+0,What does the P mean for tire size P215/65R16 98T?,Passenger car tire,Performance tire,Permanent tire,
+0,What is the speed rating for tire size P215/65R16 98T?,T,P,R,98
+0,What is the service description for tire size P215/65R16 98T?,98T,P215,65R,R16
+0,What is the load index for tire size 245/40ZR18 93Y?,93,18,40,245
+0,What is the rim diameter for tire size 245/40ZR18 93Y?,18,40,93,245
+0,What is the section width for tire size 245/40ZR18 93Y?,245,18,40,93
+0,What is the aspect ratio for tire size 245/40ZR18 93Y?,40,18,93,245
+0,What is the speed rating in tire size 245/40ZR18 93Y?,Y,R,W,U
+0,What is the service description in tire size 245/40ZR18 93Y?,93Y,40ZR,ZR18,245
+0,"A ""Z"" must appear in the tire size for tires having a maximum speed capability above ________ miles per hour.",186 (300 km/h),200 (320 km/h),170 (270 km/h),149 (240 km/h)
+0,"In the P-Metric system, the rim diameter is given in which measurement?",Inches,Millimeters,Centimeters,Feet
+1,True or False: Load ranges for Light Trucks range from B to G.,TRUE,FALSE,,
+1,True or False: Euro-Metric sizing systems do not contain a load index.,FALSE,TRUE,,
